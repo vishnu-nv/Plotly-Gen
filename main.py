@@ -2,7 +2,7 @@ import gradio as gr
 from text_generation import Client
 
 API_URL = "https://api-inference.huggingface.co/models/codellama/CodeLlama-13b-hf"
-API_TOKEN = "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"
+API_TOKEN = "YOUR_TOKEN"
 
 FIM = "<FILL_ME>"
 EOS = "</s>"
